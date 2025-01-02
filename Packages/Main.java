@@ -5,11 +5,11 @@ and invokes their corresponding methods.*/
 
 public class Main
 {
-public static void main(String[] args)
-{
-packageone.A instanceA = new packageone.A();
-packagetwo.B instanceB = new packagetwo.B();
-instanceA.methodClassOne();
-instanceB.methodClassTwo();
-}
+  public static void main(String[] args)
+  {
+    packageone.A instanceA = new packageone.A();
+    packagetwo.B instanceB = new packagetwo.B();
+    instanceA.methodClassOne();
+    instanceB.methodClassTwo();
+  }
 }
