@@ -1,4 +1,4 @@
-/*To check whether a given string is palindrome or not using constructors.*/
+/*To check whether a given string is palindrome or not using a constructor.*/
 
 import java.util.Scanner;
 
