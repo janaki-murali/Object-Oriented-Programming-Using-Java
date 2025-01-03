@@ -43,7 +43,8 @@
         quickSort (A, 0, n - 1);
         System.out.println("\nAfter quick sort");
         for (int i = 0; i < n; i++) {
-          System.out.print(A[i]+" ");
+          System.out.println(A[i]);
         }
+        sc.clcose():
       }
     }
