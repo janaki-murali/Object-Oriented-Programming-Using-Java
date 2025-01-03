@@ -1,3 +1,6 @@
+/*The given program defines custom exceptions (EvenException and OddException) to indicate whether a number is even or odd. It also contains a method checknum(), 
+that determines if a given number is even or odd and throws the respective exception.*/
+
 class EvenException extends Exception
 {
     public String toString()
